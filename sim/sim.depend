@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526982817 source:c:\users\vitalia\desktop\algoritms\sim\fracclass\frac.cpp
+	"frac.h"
+
+1526982817 c:\users\vitalia\desktop\algoritms\sim\fracclass\frac.h
+	<cmath>
+	<cstdio>
+	<fstream>
+
+1526982817 source:c:\users\vitalia\desktop\algoritms\sim\frac.cpp
+	"frac.h"
+
+1526982817 c:\users\vitalia\desktop\algoritms\sim\frac.h
+	<cmath>
+	<cstdio>
+	<fstream>
+
